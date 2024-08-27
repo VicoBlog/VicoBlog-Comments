@@ -2,7 +2,6 @@
   "origins": [
     "https://vicoblog.github.io",
     "https://vicoblog.vercel.app",
-    "https://vicoblog.netlify.app",
-    "https://vickysite.netlify.app"
+    "https://vicoblog.netlify.app"
   ]
 }
